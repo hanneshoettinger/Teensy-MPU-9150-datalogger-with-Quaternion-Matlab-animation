@@ -16,3 +16,9 @@ http://www.montefiore.ulg.ac.be/~dteney/dml.htm
 MPU-9150 lib
 
 https://github.com/stpn/MPU9150Lib
+
+
+Videos:
+https://youtu.be/GRWbBx6A0ik
+https://youtu.be/uWDj6R25xB8
+https://youtu.be/uhyrLmjLYPk
